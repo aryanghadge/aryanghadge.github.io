@@ -1,6 +1,7 @@
 title: Aryan Ghadge
 author: Aryan Ghadge
 description: Personal Profile
+logo: logo.png
 permalink: /:title/
 lang: "en"
 remote_theme: pages-themes/minimal@v0.2.0

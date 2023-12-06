@@ -1,3 +1,16 @@
+title: Aryan Ghadge
+author: Aryan Ghadge
+description: Personal Profile
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
+
+footer:
+  social_icons:
+    - title: LinkedIn
+      icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/aryan-ghadge-b0012a192/
+    - title: GitHub
+      icon: fab fa-github
+      url: https://github.com/aryanghadge
+    # Add more social icons as needed

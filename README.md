@@ -1,11 +1,16 @@
-<div align="center">
-  <h1>Aryan Ghadge</h1>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aryan Ghadge</title>
+</head>
+<body>
 
 ![WhatsApp Image 2023-12-06 at 7 31 14 PM](https://github.com/aryanghadge/aryanghadge.github.io/assets/150444246/f8640d1b-fc89-49b2-9711-5f1d146e2901)
 
 <div align="center">
-  📧 Email: aryanghadge811@gmail.com | ☎️ Phone: +919769906111 | 💼 [LinkedIn](https://www.linkedin.com/in/aryan-ghadge-b0012a192/)
+    📧 Email: aryanghadge811@gmail.com | ☎️ Phone: +919769906111 | 💼 [LinkedIn Profile](https://www.linkedin.com/in/aryan-ghadge-b0012a192/)
 </div>
 
 ## About Me
@@ -14,34 +19,11 @@ I graduated from Purdue University with a BS in Aerospace Engineering in 2022, w
 I'm skilled in Python, C/C++, MATLAB, ROS/ROS2. I'm Familiar with Linux OS and Embedded programming. My core skillset lies in developing autopilot flight codes and ground control station software. 
 I'm passionate about the future of drones and advancing the limits of UAS autonomy is something I'm deeply interested in. 
 
-
 ## Software and Technical Skills
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-
-  <div style="background-color: #1a1a1a; color: white; padding: 10px; border-radius: 10px;">
-    <strong>Programming Languages:</strong><br>
-    <div style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; display: inline-block; margin-bottom: 5px;">C++</div>
-    <div style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; display: inline-block; margin-bottom: 5px;">Python</div>
-    <div style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; display: inline-block; margin-bottom: 5px;">C</div>
-  </div>
-
-  <div style="background-color: #1a1a1a; color: white; padding: 10px; border-radius: 10px;">
-    <strong>Engineering Software:</strong><br>
-    <div style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; display: inline-block; margin-bottom: 5px;">C++</div>
-    <div style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; display: inline-block; margin-bottom: 5px;">Python</div>
-    <div style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; display: inline-block; margin-bottom: 5px;">C</div>
-  </div>
-
-  <div style="background-color: #1a1a1a; color: white; padding: 10px; border-radius: 10px;">
-    <strong>Development Framework:</strong><br>
-    <div style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; display: inline-block; margin-bottom: 5px;">Git</div>
-    <div style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; display: inline-block; margin-bottom: 5px;">Docker</div>
-    <div style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; display: inline-block; margin-bottom: 5px;">ROS</div>
-  </div>
-
-
-</div>
+- **Programming Languages:** C++ 🚀, Python 🐍, C 📜
+- **Engineering Software:** CATIA 🛠️, ANSYS Fluent 🔍, SolidWorks 🏗️
+- **Development Frameworks:** Git 🔄, Linux 🐧, WSL 2 ⚙️, ROS/ROS2 🤖, Docker 🐳, PX4 🚁, Ardupilot 🚀, ROS/ROS2 🤖, PyTorch 🔥, Numpy 🧮, Raspberry Pi 🍓, Linux 🐧
 
 ## Engineering Projects
 
@@ -73,5 +55,21 @@ I'm passionate about the future of drones and advancing the limits of UAS autono
 
 - Developed a program for accurate calculation and display of power from geostationary satellites.
 - [Youtube video documentation](https://tinyurl.com/59ctrnnr)
+
+
+
+</body>
+</html>
+
+
+<div align="center">
+  <h1>Aryan Ghadge</h1>
+</div>
+
+
+
+<div align="center">
+  📧 Email: aryanghadge811@gmail.com | ☎️ Phone: +919769906111 | 💼 [LinkedIn](https://www.linkedin.com/in/aryan-ghadge-b0012a192/)
+</div>
 
 

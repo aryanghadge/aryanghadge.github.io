@@ -1,37 +1,43 @@
 # Aryan Ghadge
 
-[Email](mailto:aryanghadge811@gmail.com) | [Phone](tel:+919769906111) | [LinkedIn](LinkedIn_Profile_Link) 
+![WhatsApp Image 2023-12-06 at 7 31 14 PM](https://github.com/aryanghadge/aryanghadge.github.io/assets/150444246/f8640d1b-fc89-49b2-9711-5f1d146e2901)
 
-## Objective
-Seeking a full-time role in the capacity of a Test Engineer or Flight Software Engineer.
+Email : aryanghadge811@gmail.com | Phone : +919769906111 | [LinkedIn](https://www.linkedin.com/in/aryan-ghadge-b0012a192/) 
 
-## Experience
+## About Me
+Hi! My name is Aryan. I work as a Flight Software Engineer at Karman Drones. This involves developing and testing software for our autonomous aerial vehicles that are used for various applications, such as mapping and surveillance.
+I graduated from Purdue University with a BS in Aerospace Engineering in 2022, where I learned the fundamentals of aerodynamics, propulsion, structures, and control systems. 
+I'm skilled in Python, C/C++, MATLAB, ROS/ROS2. I'm Familiar with Linux OS and Embedded programming. My core skillset lies in developing autopilot flight codes and ground control station software. 
+I'm passionate about the future of drones and advancing the limits of UAS autonomy is something I'm deeply interested in. 
 
-### Flight Software Engineer | Karman Drones | Feb 2022 - Present
-
-- Led the development of Karman Ground Control Station (GCS) Software using C++ and QML in Qt Creator.
-- Conducted UAV testing initiatives, optimizing flight dynamics up to 5300 m AMSL.
-- Integrated avionics, payloads, and payload software for optimal functionality.
-- Modified autopilot flight codes in C++ for custom fail safes and flight modes.
-- Wrote Lua Scripts to manipulate vehicle state, meeting specific requirements for the Army and police forces.
-- Implemented checksum verification of firmware using SHA 256 for drone hardware tamper-proofing.
-
-### Aerospace Engineer Intern | Karman Drones | Nov 2022 – Jan 2022
-
-- Designed prototypes and NACA airfoils in SolidWorks, 3D printed for testing purposes.
-- Programmed MATLAB for plotting V-N diagram and calculating vertical gust effects.
-- Designed a Test Bench using Arduino Nano for internal testing, gathering relevant data.
-
-## Education
-
-- BS in Aeronautical and Astronautical Engineering | Purdue University, USA | 2018 – 2022
-  - Relevant Courses: Aerodynamics, Fluid Mechanics, Dynamics and Vibrations, Aircraft Design, Thermodynamics, Aerospace Propulsion, Viscous Flows, Comp Fluid Dynamics, Control System Analysis, Flight Dynamics & Control, Wind Tunnel Testing
 
 ## Software and Technical Skills
 
-- **Programming Languages:** C, C++, Python, Lua, ReactJS, MATLAB
-- **Engineering Software:** CATIA, ANSYS Fluent, SolidWorks, Autodesk EAGLE
-- **Development Frameworks:** Git, Linux, WSL 2, ROS
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+  <div style="background-color: #1a1a1a; color: white; padding: 10px; border-radius: 10px;">
+    <strong>Programming Languages:</strong><br>
+    <div style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; display: inline-block; margin-bottom: 5px;">C++</div>
+    <div style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; display: inline-block; margin-bottom: 5px;">Python</div>
+    <div style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; display: inline-block; margin-bottom: 5px;">C</div>
+  </div>
+
+  <div style="background-color: #1a1a1a; color: white; padding: 10px; border-radius: 10px;">
+    <strong>Engineering Software:</strong><br>
+    <div style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; display: inline-block; margin-bottom: 5px;">C++</div>
+    <div style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; display: inline-block; margin-bottom: 5px;">Python</div>
+    <div style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; display: inline-block; margin-bottom: 5px;">C</div>
+  </div>
+
+  <div style="background-color: #1a1a1a; color: white; padding: 10px; border-radius: 10px;">
+    <strong>Development Framework:</strong><br>
+    <div style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; display: inline-block; margin-bottom: 5px;">Git</div>
+    <div style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; display: inline-block; margin-bottom: 5px;">Docker</div>
+    <div style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; display: inline-block; margin-bottom: 5px;">ROS</div>
+  </div>
+
+
+</div>
 
 ## Engineering Projects
 
@@ -64,14 +70,4 @@ Seeking a full-time role in the capacity of a Test Engineer or Flight Software E
 - Developed a program for accurate calculation and display of power from geostationary satellites.
 - [Youtube video documentation](https://tinyurl.com/59ctrnnr)
 
-## Leadership Experience
-
-### Teaching Assistant, College of Engineering | Fall 2019 – Spring 2020
-
-- Implemented lessons for 120+ freshmen, advised students during office hours.
-
-### Office of Future Engineers – Student Advisor | Summer 2022
-
-- First point of contact for 27,000 incoming and prospective students annually.
-- Hosted daily information sessions for an average of 80+ audiences.
 

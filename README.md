@@ -4,7 +4,9 @@
 
 ![WhatsApp Image 2023-12-06 at 7 31 14 PM](https://github.com/aryanghadge/aryanghadge.github.io/assets/150444246/f8640d1b-fc89-49b2-9711-5f1d146e2901)
 
-Email : aryanghadge811@gmail.com | Phone : +919769906111 | [LinkedIn](https://www.linkedin.com/in/aryan-ghadge-b0012a192/) 
+<div align="center">
+  📧 Email: aryanghadge811@gmail.com | ☎️ Phone: +919769906111 | 💼 [LinkedIn](https://www.linkedin.com/in/aryan-ghadge-b0012a192/)
+</div>
 
 ## About Me
 Hi! My name is Aryan. I work as a Flight Software Engineer at Karman Drones. This involves developing and testing software for our autonomous aerial vehicles that are used for various applications, such as mapping and surveillance.

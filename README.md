@@ -4,11 +4,8 @@ I graduated from Purdue University with a BS in Aerospace Engineering in 2022, w
 I'm skilled in Python, C/C++, MATLAB, ROS/ROS2. I'm Familiar with Linux OS and Embedded programming. My core skillset lies in developing autopilot flight codes and ground control station software. 
 I'm passionate about the future of drones and advancing the limits of UAS autonomy is something I'm deeply interested in. 
 
-<div align="center">
-  📧 Email: aryanghadge811@gmail.com | ☎️ Phone: +919769906111 | 💼 [LinkedIn](https://www.linkedin.com/in/aryan-ghadge-b0012a192/)
-</div>
-
 ## Engineering Projects
+---
 
 ### Warehouse Drone Project, WareOne | Karman Drones| Feb 2022
 
@@ -25,8 +22,10 @@ I'm passionate about the future of drones and advancing the limits of UAS autono
 
 - Worked on the ground station GUI source code for Purdue Orbital’s Ground Station.
 - [Project Link](https://github.com/purdue-orbital/ground-station-GUI)
+  
 
 ## Research
+---
 
 ### Zero Gravity Research Program | Purdue University School of Aeronautics & Astronautics | May 2022
 

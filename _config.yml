@@ -6,7 +6,6 @@ description: A short walk through some of the things I have worked on..
 logo: /assets/logo.png
 permalink: /:title/
 lang: "en"
-show_downloads: true
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme

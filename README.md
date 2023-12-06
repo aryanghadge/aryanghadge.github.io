@@ -1,4 +1,4 @@
-# Aryan Ghadge
+# <div style="text-align: center;">Aryan Ghadge</div>
 
 ![WhatsApp Image 2023-12-06 at 7 31 14 PM](https://github.com/aryanghadge/aryanghadge.github.io/assets/150444246/f8640d1b-fc89-49b2-9711-5f1d146e2901)
 

@@ -1,5 +1,46 @@
-Take a chance on me.
+## About Me
+---
+Hi! My name is Aryan. I work as a Flight Software Engineer at Karman Drones. This involves developing and testing software for our autonomous aerial vehicles that are used for various applications, such as mapping and surveillance.
+I graduated from Purdue University with a BS in Aerospace Engineering in 2022, where I learned the fundamentals of aerodynamics, propulsion, structures, and control systems. 
+I'm skilled in Python, C/C++, MATLAB, ROS/ROS2. I'm Familiar with Linux OS and Embedded programming. My core skillset lies in developing autopilot flight codes and ground control station software. 
+I'm passionate about the future of drones and advancing the limits of UAS autonomy is something I'm deeply interested in. 
 
-I know those words are wrought with uncertainty. I know you’ve taken chances before, and they have flopped and floundered and left you high and dry. I know you are scared to start again after everything before this has failed you—I am, too. But baby, if I have to fail again, it is you I want to go down in flames with. I know that nothing ever works out, but if it does, it would be this. It would be here. It would be you and me and whatever this fire is between us.
+### Contact Information
+- Email: [Your Email Address](mailto:aryanghadge811@gmail.com)
+- Contact: +91-9769906111
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aryan-ghadge-b0012a192/)
+- Resume: [Link to Your Resume](https://github.com/aryanghadge/aryanghadge.github.io/files/13588402/1659868144145.pdf)
 
-Take a chance on me. Because the timing’s always going to be wrong and the stars are never going to align, but I would break every clock in this city. I’d stop every star from shining if it meant that, for one afternoon, we could cast all that aside and give in. Give in to the complete impossibility that something could work here despite everything that stands in the way. Give in to how your touch makes me shiver, and your words make my mind race and reel. Give in to the improbability that this is going to work out or end well or fall into place exactly as we’d hoped or that any of it will be even half worth it in the end. Give in to senselessness. Give in to you, finally giving in to me.
+## Engineering Projects
+---
+
+### Warehouse Drone Project, WareOne | Karman Drones| Feb 2022
+
+- Developed a drone prototype for warehouse inventory management.
+- Utilized Yolov5 and Intel RealSense Depth camera for box counting and OCR for pallet label reading.
+- Created a dashboard for pallet details.
+
+### ARMD University Aeronautics Langley Challenge | Jan 2022 – April 2022
+
+- Designed aerial fire-fighting vehicles for CAL FIRE, delivering CAD models and sizing code.
+- Presented recommendations to industry panelists from Boeing, Lockheed Martin.
+
+### Ground Station | Purdue Orbital | Fall 2019 – Spring 2020
+
+- Worked on the ground station GUI source code for Purdue Orbital’s Ground Station.
+- [Project Link](https://github.com/purdue-orbital/ground-station-GUI)
+  
+
+## Research
+---
+
+### Zero Gravity Research Program | Purdue University School of Aeronautics & Astronautics | May 2022
+
+- Collaborated with Masten Space Systems to investigate thermal loading on a lunar lander.
+- Designed a test frame for temperature measurement.
+- [Project Link](https://tinyurl.com/3kszw5xk)
+
+### Earth Remote Sensing with Signals of Opportunity | Satellite Radio Navigation Lab | June 2022
+
+- Developed a program for accurate calculation and display of power from geostationary satellites.
+- [Youtube video documentation](https://tinyurl.com/59ctrnnr)
